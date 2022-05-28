@@ -70,7 +70,7 @@ export const Home = () => {
             <Container>
             <div className="d-flex">
                 <div className="mr-auto p-2">
-                    <h1>Anúncios</h1>
+                    <h1>Evento</h1>
                 </div>
                 <div className="p-2">
                     <Link to="/cadastrar-anuncio" className="btn btn-outline-success btn-sm">Cadastrar</Link>

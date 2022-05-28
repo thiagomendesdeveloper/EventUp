@@ -45,7 +45,7 @@ export const VisualizarAnuncio = (props) => {
                 <Container>
                 <div className="d-flex">
                     <div className="mr-auto p-2">
-                        <h1>visuaizar Anúncios</h1>
+                        <h1>visualizar Evento</h1>
                     </div>
                     <div className="p-2">
                         <Link to="/" className="btn btn-outline-info btn-sm mr-1">Listar</Link>

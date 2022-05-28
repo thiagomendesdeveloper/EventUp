@@ -63,7 +63,7 @@ export const CadastrarAnuncio = () => {
             <Container>
             <div className="d-flex">
                 <div className="mr-auto p-2">
-                    <h1>Cadastrar Anúncios</h1>
+                    <h1>Cadastrar Evento</h1>
                 </div>
                 <div className="p-2">
                     <Link to="/" className="btn btn-outline-info btn-sm">Listar</Link>

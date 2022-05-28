@@ -49,7 +49,7 @@ export const EditarAnuncioimg = (props) => {
             setStatus({
                 formSave: false,
                 type: "success",
-                mensagem: 'erro: imagem do anuncio não editado com sucesso!'
+                mensagem: 'erro: imagem do evento não editado com sucesso!'
             })
         })
     }
@@ -79,7 +79,7 @@ export const EditarAnuncioimg = (props) => {
             <Container>
                 <div className="d-flex">
                     <div className="mr-auto p-2">
-                        <h1>Editar Imagem do Anúncios</h1>
+                        <h1>Editar Imagem do Evento</h1>
                     </div>
                     <div className="p-2">
                         <Link to="/" className="btn btn-outline-info btn-sm mr-1">Listar</Link>
